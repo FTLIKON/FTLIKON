@@ -1,4 +1,4 @@
-## I'm Dylech30th ❤ Open Source
+## I'm FTLIKON ❤ Open Source
 
 ![GitHub stars](https://img.shields.io/github/stars/FTLIKON?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/FTLIKON?style=social)
