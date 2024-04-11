@@ -1,4 +1,4 @@
-## I'm FTLIKON ❤ Open Source
+## I'm FTLIKON
 
 ![GitHub stars](https://img.shields.io/github/stars/FTLIKON?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/FTLIKON?style=social)
@@ -6,7 +6,7 @@
 ## 🏆 GitHub Profile Trophy
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=FTLIKON&row=1&column=8&no-frame=true" alt="dylech30th"></div>
 
-I'm FTLIKON, a student who is passionate on theoretical computer science, you can call me *suger* for brevity. I'm willing to make new friends and often share my note and essays at my [blog](https://blog.csdn.net/weixin_45915254), welcome to pay a visit if you want to contact or want to make friends with me:).
+I'm FTLIKON, Individual developers who are passionate about full stack development, you can call me *suger* for brevity. I'm willing to make new friends and often share my note and essays at my [blog](https://blog.csdn.net/weixin_45915254), welcome to pay a visit if you want to contact or want to make friends with me:).
 
 * ⌨️ I love modern languages with high usability, such as `Python`, `TypeScript`, `Kotlin`
 * 📜 From a theoretical perspective, I love *Mathematical Logic*, more specifically, *Computability Theory*, and *Programming Language Theory*.
