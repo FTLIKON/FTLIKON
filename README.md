@@ -34,6 +34,3 @@ I'm FTLIKON, Individual developers who are passionate about full stack developme
 ### 👀 Visitors
 <div align="center"><img src="https://count.getloli.com/get/@FTLIKON?theme=rule34" alt="FTLIKON"></div>
 
-### 💩 Programming Flavor
-Utter garbage, this account hereby adheres to producing the [State-of-the-art Shitcode](https://github.com/trekhleb/state-of-the-art-shitcode).
-<div align="center"><img src="https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804"/></div>
